@@ -1,0 +1,43 @@
+2024-11-17 * "猫猫幸福" "商户消费"
+  Expenses:StoreMarket                                   25.00 CNY
+  Liabilities:CMB7383                                   -25.00 CNY
+
+2024-11-17 * "兴业银行信用卡还款" "信用卡还款"
+  Liabilities:CIB1943                                   910.91 CNY
+  Assets:Wechat                                        -910.91 CNY
+
+2024-11-17 * "中国石化销售江苏石油分公司" "92号车用汽油(ⅥB)"
+  Expenses:CarCost                                      150.00 CNY
+  Liabilities:CIB8903                                  -150.00 CNY
+
+2024-11-28 * "国网智慧车联网技术有限公司" "先充后付"
+  Expenses:CarCost                                        4.56 CNY
+  Liabilities:SPD8741                                    -4.56 CNY
+
+2024-11-29 * "国网智慧车联网技术有限公司" "先充后付"
+  Expenses:CarCost                                        1.53 CNY
+  Assets:Wechat                                          -1.53 CNY
+
+2024-11-29 * "猫猫幸福" "商户消费"
+  Expenses:StoreMarket                                    5.00 CNY
+  Assets:Wechat                                          -5.00 CNY
+
+2024-11-29 * "猫猫幸福" "商户消费"
+  Expenses:StoreMarket                                   25.00 CNY
+  Assets:Wechat                                         -25.00 CNY
+
+2024-11-30 * "拼多多平台商户" "商户单号XP1424113009500495474589005036"
+  Expenses:Tencent                                       23.09 CNY
+  Assets:Wechat                                         -23.09 CNY
+
+2024-11-30 * "国网智慧车联网技术有限公司" "先充后付"
+  Expenses:CarCost                                       12.19 CNY
+  Assets:Wechat                                         -12.19 CNY
+
+2024-11-30 * "陈氏五金日杂批发" "商户消费"
+  Expenses:Tencent                                       80.00 CNY
+  Assets:Wechat                                         -80.00 CNY
+
+2024-11-30 * "袁荣花" "付款码支付"
+  Expenses:Tencent                                        3.00 CNY
+  Assets:Wechat                                          -3.00 CNY
